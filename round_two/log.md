@@ -11,3 +11,13 @@
 4. [Leetcode 35. Search Insert Position (Easy)](https://leetcode.com/submissions/detail/652036390/)
 5. [Leetcode 278. First Bad Version (Easy)](https://leetcode.com/submissions/detail/652030932/)
 - [ ] WIP - Will add the solution to the repo.
+
+### Day 2: March 3th, 2022
+
+**Today's Progress**: Review algorithm such as stack and queue, sorting, etc. Learning JS in freeCodeCamp and solving 3 easy and 1 medium problems in LeetCode (in both Python and JavaScript). 
+
+**Link(s) to work:** 
+1. [LeetCode 191. Number of 1 Bits (Easy)](https://leetcode.com/submissions/detail/652480078/)
+2. [LeetCode 1281. Subtract the Product and Sum of Digits of an Integer (Easy)](https://leetcode.com/submissions/detail/652484228/)
+3. [LeetCode 704. Binary Search (Medium)](https://leetcode.com/submissions/detail/652654110/)
+4. [Leetcode 977. Squares of a Sorted Array (Easy)](https://leetcode.com/submissions/detail/652510122/)
