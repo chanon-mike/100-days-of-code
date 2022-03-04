@@ -21,3 +21,12 @@
 2. [LeetCode 1281. Subtract the Product and Sum of Digits of an Integer (Easy)](https://leetcode.com/submissions/detail/652484228/)
 3. [LeetCode 704. Binary Search (Medium)](https://leetcode.com/submissions/detail/652654110/)
 4. [Leetcode 977. Squares of a Sorted Array (Easy)](https://leetcode.com/submissions/detail/652510122/)
+
+### Day 3: March 4th, 2022
+
+**Today's Progress**: Don't have much time today plus internet was very bad. Just solving 2 easy LeetCode problems (not sure if it more than 1 hour or not)
+
+**Link(s) to work:** 
+1. [LeetCode 1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)](https://leetcode.com/submissions/detail/653310276/)
+2. [LeetCode 976. Largest Perimeter Triangle (Easy)](https://leetcode.com/submissions/detail/653286753/)
+
