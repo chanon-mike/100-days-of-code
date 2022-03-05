@@ -30,3 +30,10 @@
 1. [LeetCode 1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)](https://leetcode.com/submissions/detail/653310276/)
 2. [LeetCode 976. Largest Perimeter Triangle (Easy)](https://leetcode.com/submissions/detail/653286753/)
 
+### Day 4: March 5th, 2022
+
+**Today's Progress**: Don't have much time, started coding at 10.40pm. Doing Algorithm I Day 3 and Day 4 (3 easy and 1 medium). Learning about two pointers
+
+**Link(s) to work:** 
+[LeetCode 283, 167, 344, 557](./day4/leetcode.py)
+
