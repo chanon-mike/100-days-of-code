@@ -37,3 +37,9 @@
 **Link(s) to work:** 
 [LeetCode 283, 167, 344, 557](./day4/leetcode.py)
 
+### Day 5: March 6th, 2022
+
+**Today's Progress**: I have done some LeetCode study plan and I felt like I can solve easy problems faster. However, I can't solve medium problem I faced today ([Number 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)). I want to learn more JS and start learning React ASAP.
+
+**Link(s) to work:** 
+[LeetCode 1822, 1502, 202, 1790, 589, 496, 1232, 876](./day5/leetcode.py)
